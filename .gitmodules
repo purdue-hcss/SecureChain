@@ -1,0 +1,8 @@
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/purdue-hcss/Proto-OKN-SPARQL-Visualization
+	branch = visualize
+[submodule "integration/relation_extraction"]
+	path = integration/relation_extraction
+	url = https://github.com/HadiAskari/NSF-NER-RE
+	branch = main
